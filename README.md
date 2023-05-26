@@ -8,7 +8,7 @@
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://tryhackme.com/p/Nikhilsn71/?hl=en">
-  <img align="left" alt="akd's TryHackMe" width="100px" src="https://img.shields.io/badge/TryHackMe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="akd's TryHackMe" width="100px" src="https://img.shields.io/badge/TryHackMe-E4405F?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsn71&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsn71" /> </p>
